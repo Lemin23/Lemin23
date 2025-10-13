@@ -1,8 +1,8 @@
-# leminbnou / README.md
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leminbnou)
-[![X](https://img.shields.io/badge/@leminbnou-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminbnou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leminbnou)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lemin23)
+[![X](https://img.shields.io/badge/@leminbnou-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lemin099)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemin-ebnou-aa2496258)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leminbnou.dev)
 [![Contact](https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medlebnou@gmail.com)
 
