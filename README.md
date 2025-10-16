@@ -10,7 +10,7 @@
 
 ## 👋 About
 
-I’m **Lemine**, a passionate **full-stack developer** dedicated to crafting intelligent, scalable, and visually stunning digital experiences.  
+I’m **Lemin**, a passionate **full-stack developer** dedicated to crafting intelligent, scalable, and visually stunning digital experiences.  
 I love building systems that merge clean design with powerful technology — turning ideas into seamless products.
 
 I’m currently focused on **AI-driven solutions**, modern **web apps**, and **mobile experiences** powered by cutting-edge tools.
